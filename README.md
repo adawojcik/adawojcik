@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚡️Junior full-stack developer from Warsaw, Poland<br>🌱 I am currently working on expanding my knowledge of TypeScript<br>🌞I believe that working together not only amplifies our capabilities but also fosters a creative synergy.<br>🎯I am oriented towards reliable planning and achieving goals.<br>🤹🏼‍♀️ I can juggle.</p>
+<p align="left">⚡️ Junior full-stack developer from Warsaw, Poland<br>🌱 I am currently working on expanding my knowledge of TypeScript<br>🌞 I believe that working together not only amplifies our capabilities but also fosters a creative synergy.<br>🎯 I am oriented towards reliable planning and achieving goals.<br>🤹🏼‍♀️ I can juggle.</p>
 
 ###
 
